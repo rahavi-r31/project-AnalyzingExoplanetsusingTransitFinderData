@@ -26,9 +26,6 @@
 
 ## 4. Exploratory Data Analysis 🕵️‍♀️
 
-- **Univariate Analysis**: finding mean and standard deviation on attributes
-- **Bivariate Analysis**:
-- **Multivariate Analysis**:
 - Predicting future transits of an exoplanet is an essential part of exoplanetary research, as it allows astronomers to plan observations, gather more data, and study the exoplanet's behavior over time. To predict future transits using the transit epoch and orbital period, you can follow these steps:
     1. **Understand the Basics**:
         - **Transit Epoch (\(epoch\))**: This is the reference time at which a specific transit event occurred. It represents the center of a transit and is typically given in Julian Date (JD) or Gregorian Date.
