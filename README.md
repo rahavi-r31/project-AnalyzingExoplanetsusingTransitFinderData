@@ -26,7 +26,7 @@ In the course of this project, we have successfully identified and predicted the
 
 ## Recommendations and Next Steps
 
-Our project has demonstrated the feasibility of predicting future transits efficiently. As the next steps, we recommend:
+This project has demonstrated the feasibility of predicting future transits efficiently. As the next steps, we recommend:
 
 - Refining the predictive model to enhance accuracy.
 - Expanding the dataset to include a wider range of exoplanets for more comprehensive analysis.
@@ -36,4 +36,3 @@ We believe that these steps will contribute to the advancement of exoplanetary r
 
 ---
 
-Feel free to customize this README file with additional information, such as installation instructions, usage guidelines, and acknowledgments, as needed for your GitHub project.
