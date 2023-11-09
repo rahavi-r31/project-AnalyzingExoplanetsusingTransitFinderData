@@ -1,6 +1,6 @@
 # project-AnalyzingExoplanetsusingTransitFinderData
 
-# Project Title
+## Project Title
 
 Analyzing Exoplanets using Transit Finder Data
 
